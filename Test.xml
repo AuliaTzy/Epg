@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.15 -- Jan van Straaten" site="https://www.transvision.co.id/jadwalacara/epg.html">
+  <channels>
+    <channel update="i" site="https://www.transvision.co.id/jadwalacara/epg.html" site_id="SCTV" xmltv_id="SCTV">SCTV</channel>
