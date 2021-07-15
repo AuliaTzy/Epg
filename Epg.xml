@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <channels>
     <channel update="i" site="https://www.transvision.co.id/jadwalacara/epg.html" site_id="SCTV" xmltv_id="SCTV">SCTV</channel>
+    <channel update="i" site="https://www.transvision.co.id/jadwalacara/epg.html" site_id="HBO Family HD" xmltv_id="HBO Family HD">HBO Family HD</channel>
